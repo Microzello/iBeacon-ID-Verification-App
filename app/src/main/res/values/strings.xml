@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">iBeacon Verification</string>
+    <string name="app_title">iBeacon ID Verification App</string>
+    <string name="company_id">Company ID: F2DEB72A-E93A-4385-9E9A-40680F510933</string>
+    <string name="welcome_message">Welcome User</string>
+    <string name="personal_id">Personal ID: A5B9</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="advertising_message">Broadcasting authentication beacon…</string>
+    <string name="scanned_code_placeholder">Scan a QR code to get an asset ID</string>
+</resources>
