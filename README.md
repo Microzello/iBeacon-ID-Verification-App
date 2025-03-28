@@ -2,7 +2,7 @@
 
 A simple Android application template that demonstrates how to use an Android device as an iBeacon transmitter. This app allows you to broadcast custom iBeacon packets containing company ID, personal ID, and asset ID information.
 
-![App Screenshot](app_screenshot.jpg)
+![App Screenshot](app_screenshot.png)
 
 ## What is an iBeacon?
 
@@ -78,7 +78,7 @@ The app uses the ZXing library to scan QR codes. The QR code should contain a va
 
 ## Download
 
-Pre-built APK: [app/build/outputs/apk/debug/ibeacon-verification.apk](app/build/outputs/apk/debug/ibeacon-verification.apk)
+Pre-built APK: [ibeacon-verification.apk](ibeacon-verification.apk)
 
 ## Limitations
 
